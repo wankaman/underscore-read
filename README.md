@@ -1,6 +1,4 @@
 # underscore-read
-
-## read
 ```
-  underscore源码阅读
+underscore.js源码阅读
 ```
